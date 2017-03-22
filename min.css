@@ -1,0 +1,4 @@
+#related-posts{float:left;width:100%;border-top:3px solid #ddd;margin:5px 0}
+#related-posts .judul{background:none;color:#333;font:16px Oswald;padding:5px 0}
+#related-posts .maskolis_img {padding:0 0;width:140px;height:95px;transition:all 400ms ease-in-out;-webkit-transition:all 400ms ease-in-out;-moz-transition:all 400ms ease-in-out;-o-transition:all 400ms ease-in-out;-ms-transition:all 400ms ease-in-out}
+#related-posts .maskolis_img:hover{opacity:.7;filter:alpha(opacity=70);-moz-opacity:.7;-khtml-opacity:.7}
